@@ -7,7 +7,7 @@ function setup() {
     cnv = createCanvas(windowWidth, windowHeight);
     cnv.position(0, 0, 'fixed');
     cnv.style('cursor', 'none')
-    r = 15
+    r = 30
     x = r
     y = r
     nx = ((windowWidth - r) / (3 * r)) + 2
